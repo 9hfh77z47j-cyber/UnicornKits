@@ -1,0 +1,37 @@
+window.UNICORN_CATALOG = [
+  {
+    id: "hre-p201",
+    name: "HRE P201",
+    tag: "HRE",
+    image: "images/hre-p201.jpg",
+    note: "Кованые диски HRE P201, трехмерный полый дизайн, пожизненная гарантия от BMW и Porsche.",
+  },
+  {
+    id: "hre-p104sc",
+    name: "HRE P104SC",
+    tag: "HRE",
+    image: "images/hre-p104sc.jpg",
+    note: "Кованые диски HRE P104SC, специально модифицированные для снижения веса, повышения грузоподъемности.",
+  },
+  {
+    id: "work-bst1",
+    name: "WORK BST1",
+    tag: "WORK",
+    image: "images/work-bst1.jpg",
+    note: "Кованые диски WORK BST1, двухсоставной спортивный дизайн с шестью спицами.",
+  },
+  {
+    id: "hre s101sc",
+    name: "HRE S101SC",
+    tag: "HRE",
+    image: "images/hre s101sc.jpg",   
+    note: "Двухсоставные пятиспицевые диски HRE S101SC. Для тяжелых нагрузок с матовой отделкой, модификация и модернизация кованых дисков HX Custom.",
+  },
+  {
+    id: "hre305m",
+    name: "HRE 305M",
+    tag: "HRE",
+    image: "images/hre-305m.jpg",   
+    note: "Модель HRE 305M с пятилучевой звездообразной конструкцией спиц, высокопрочными вогнутыми коваными дисками HX. ",
+  },  
+];

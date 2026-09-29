@@ -142,3 +142,12 @@
   applyTelegramChrome();
   renderGrid();
 })();
+const telegramLink = "https://t.me/perc077";
+
+document.getElementById("orderBtn").addEventListener("click", () => {
+  window.open(telegramLink, "_blank");
+});
+
+document.getElementById("contactBtn").addEventListener("click", () => {
+  window.open(telegramLink, "_blank");
+});

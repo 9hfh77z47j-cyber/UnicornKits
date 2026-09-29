@@ -152,3 +152,10 @@ document.getElementById("orderBtn").addEventListener("click", () => {
   }
 });
 
+document.getElementById("contactBtn").addEventListener("click", () => {
+  if (window.Telegram && Telegram.WebApp) {
+    Telegram.WebApp.openTelegramLink(telegramLink);
+  } else {
+    window.open(telegramLink, "_blank");
+  }
+});

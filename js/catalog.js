@@ -52,7 +52,7 @@ window.UNICORN_CATALOG = [
     id: "oz zeus",
     name: "OZ Zeus",
     tag: "OZ",
-    image: "",   
+    image: "images/oz-zeus.jpg",   
     note: "Кованые диски OZ Zeus HX, специально разработанные для гонок на треке, сверхлегкие.",
   },  
 ];

@@ -38,7 +38,7 @@ window.UNICORN_CATALOG = [
     id: "hrp d107",
     name: "HRP D107",
     tag: "HRP",
-    image: "images/hrp d107.jpg",   
+    image: "images/hrp-d107.jpg",   
     note: "Кованые диски HRP D107 HX, обладают высокой грузоподъемностью и спортивным внешним видом, подходят для модификации и модернизации Land Rover Defender. ",
   },  
 ];

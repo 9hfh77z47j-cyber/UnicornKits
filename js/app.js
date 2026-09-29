@@ -145,9 +145,17 @@
 const telegramLink = "https://t.me/perc077";
 
 document.getElementById("orderBtn").addEventListener("click", () => {
-  window.open(telegramLink, "_blank");
+  if (window.Telegram && Telegram.WebApp) {
+    Telegram.WebApp.openTelegramLink(telegramLink);
+  } else {
+    window.open(telegramLink, "_blank");
+  }
 });
 
 document.getElementById("contactBtn").addEventListener("click", () => {
-  window.open(telegramLink, "_blank");
+  if (window.Telegram && Telegram.WebApp) {
+    Telegram.WebApp.openTelegramLink(telegramLink);
+  } else {
+    window.open(telegramLink, "_blank");
+  }
 });

@@ -55,4 +55,32 @@ window.UNICORN_CATALOG = [
     image: "images/oz-zeus.jpg",   
     note: "Кованые диски OZ Zeus HX, специально разработанные для гонок на треке, сверхлегкие.",
   },  
+  {
+    id: "oz-sparco-terra-stule-hx",
+    name: "OZ Sparco",
+    tag: "OZ",
+    image: "images/oz-sparco-terra-stule-hx.jpg",   
+    note: "Кованые диски OZ Sparco Terra style HX, выполненные на заказ, для ретро-гонок и спортивного тюнинга.",
+  },  
+  {
+    id: "work-emotion-zr10-hx",
+    name: "Work Emotion ZR10 HX",
+    tag: "WORK",
+    image: "images/work-emotion-zr10-hx.jpg",   
+    note: "Кованые диски WORK EMOTION ZR10 HX, индивидуальный многоспицевый дизайн, полированные края, облегченная конструкция, возможность установки под высокие нагрузки."
+  },  
+  {
+    id: "bbs-super-rs",
+    name: "BBS SUPER RS High-Load Sport HX Custom",
+    tag: "BBS",
+    image: "images/bbs-super-rs.jpg",   
+    note: "Двухкомпонентные кованые диски BBS SUPER RS High-Load Sport HX Custom."
+  },  
+  {
+    id: "wf-xrsm-ff",
+    name: "WF XRSM-FF",
+    tag: "WF",
+    image: "images/wf-xrsm-ff.jpg",   
+    note: "Кованые диски WF XRSM-FF с многоспицевым дизайном, предназначенные для индивидуальной модификации."
+  },  
 ];

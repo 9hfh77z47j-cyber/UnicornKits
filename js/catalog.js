@@ -59,7 +59,7 @@ window.UNICORN_CATALOG = [
     id: "oz-sparco-terra-stule-hx",
     name: "OZ Sparco",
     tag: "OZ",
-    image: "images/oz-sparco-terra-stule-hx.jpg",   
+    image: "images/oz-sparco-terra-style-hx.jpg",   
     note: "Кованые диски OZ Sparco Terra style HX, выполненные на заказ, для ретро-гонок и спортивного тюнинга.",
   },  
   {
